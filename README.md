@@ -1,0 +1,1 @@
+This repository demonstrates a common error in VBScript: the divide by zero error. The `bug.vbs` file contains a function that performs division. If the second argument (b) is zero, it causes a runtime error.  The `bugSolution.vbs` file shows how to prevent this error by adding input validation.
